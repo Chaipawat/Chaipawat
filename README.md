@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Chaipawat 👋
 
-<!--
-**Chaipawat/Chaipawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on Front-End Development.
 
-Here are some ideas to get you started:
+I build modern web and mobile applications with a focus on clean UI, API integration, and practical user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### Front-End
+- React
+- Next.js
+- React Native
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+### Back-End & API
+- Node.js
+- REST API
+- Postman
+
+### Tools
+- Git
+- GitHub
+- Figma
+- Android Studio
+
+### AI Tools
+- ChatGPT
+- Claude
+- Gemini
+
+## 🚀 What I Work On
+
+- Web Application Development
+- Mobile Application Development
+- UI Implementation from Figma
+- REST API Integration
+- Payment & QR Payment Flow
+- Real-time features using Socket
+- Refactoring and maintaining existing applications
+
+## 🎯 Current Focus
+
+Improving my Front-End Development skills and building portfolio projects using React, Next.js, React Native, and TypeScript.
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/chaipawat-jatuphattaranun-151429434/
