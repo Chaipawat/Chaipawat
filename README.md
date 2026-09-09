@@ -1,50 +1,79 @@
-# Hi, I'm Chaipawat 👋
+# Hi, I'm Chaipawat Jatuphattaranun👋
 
-Software Developer focused on Front-End Development.
+### Software Developer | Front-End Developer
 
-I build modern web and mobile applications with a focus on clean UI, API integration, and practical user experience.
+I build modern web and mobile applications with a focus on clean UI, API integration, and practical user experiences.
 
-## 💻 Tech Stack
+---
 
-### Front-End
-- React
-- Next.js
-- React Native
-- JavaScript
-- TypeScript
-- HTML
-- CSS
+## 🧑‍💻 About Me
 
-### Back-End & API
-- Node.js
-- REST API
-- Postman
+- 💻 Software Developer based in Chonburi, Thailand
+- 🎨 Focused on Front-End and UI Development
+- 📱 Experienced with Web & Mobile Applications
+- 🔌 Strong experience with REST API integration
+- 🤖 Using AI tools such as ChatGPT, Claude, and Gemini in development workflows
 
-### Tools
-- Git
-- GitHub
-- Figma
-- Android Studio
+---
 
-### AI Tools
-- ChatGPT
-- Claude
-- Gemini
+## 🛠 Tech Stack
 
-## 🚀 What I Work On
+**Front-End**
+
+`React` `Next.js` `React Native` `JavaScript` `TypeScript` `HTML` `CSS`
+
+**Back-End & API**
+
+`Node.js` `REST API` `Postman` `Socket`
+
+**Tools**
+
+`Git` `GitHub` `Figma` `Android Studio`
+
+**AI Tools**
+
+`ChatGPT` `Claude` `Gemini`
+
+---
+
+## 🚀 What I Do
 
 - Web Application Development
 - Mobile Application Development
 - UI Implementation from Figma
 - REST API Integration
-- Payment & QR Payment Flow
-- Real-time features using Socket
-- Refactoring and maintaining existing applications
+- Payment & QR Payment Integration
+- Real-time features with Socket
+- Refactoring & maintaining existing applications
+- AI-assisted development workflows
+
+---
+
+## 📌 Featured Work
+
+### Web Development
+React / Next.js applications with responsive UI, API integration, dashboards, and business workflows.
+
+### Mobile Development
+React Native applications for Android and iOS with custom UI and API integration.
+
+### UI Development
+Turning Figma designs and requirements into reusable, responsive interfaces.
+
+---
 
 ## 🎯 Current Focus
 
-Improving my Front-End Development skills and building portfolio projects using React, Next.js, React Native, and TypeScript.
+Improving my Front-End Development skills and building production-ready applications with:
 
-## 📫 Connect with me
+`React` `Next.js` `React Native` `TypeScript`
 
-- LinkedIn: https://www.linkedin.com/in/chaipawat-jatuphattaranun-151429434/
+---
+
+## 📫 Connect
+
+**LinkedIn**  
+https://www.linkedin.com/in/chaipawat-jatuphattaranun-151429434/
+
+**GitHub**  
+https://github.com/Chaipawat
